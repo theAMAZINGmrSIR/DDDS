@@ -6,7 +6,7 @@ Your mission: deliver packages through apocalyptic hazards, collect bio-matter, 
 
 ---
 
-## 🎮 Features (Current & Planned)
+## Features (Current & Planned)
 - Drone ↔ Employee connection loop (stay close or lose control)  
 - 3D-printed Employee lives powered by collected **Bio-Matter**  
 - Package pickup & drop system (death → package retrieval)  
@@ -16,7 +16,7 @@ Your mission: deliver packages through apocalyptic hazards, collect bio-matter, 
 
 ---
 
-## 🛠 Development Roadmap (No Dates, Just Chaos)
+## Development Roadmap (No Dates, Just Chaos)
 
 **Now**  
 - Training level demo polish  
@@ -35,33 +35,33 @@ Your mission: deliver packages through apocalyptic hazards, collect bio-matter, 
 
 ---
 
-## 📥 Downloads & Builds
+## Downloads & Builds
 - Latest builds will be posted on the **[Releases](../../releases)** tab.  
 - Public demo will also be hosted on **itch.io** once stable.  
 
 ---
 
-## 🧰 Tools & Tech
+## Tools & Tech
 - Engine: **Unreal Engine 5**  
 - Art: Blender, Photoshop  
 - Code/Control: GitHub, Jira, Plastic SCM  
 
 ---
 
-## 📝 Credits
+## Credits
 - **Design / Art / Direction**: Will (U.S. Army vet, MS Game Design, BS Game Art)  
 - **Studio**: Arcade Oubliette Games *(working title)*  
 - **Inspirations**: Punk rock, VHS horror, corporate absurdity, and too much coffee  
 
 ---
 
-## 🔒 Privacy
+## Privacy
 - This repo doesn’t collect data.  
 - If you subscribe for updates (via the devlog site), your email is only used for sending game updates — no spam, no sharing.  
 
 ---
 
-## ⚡ License
+## License
 *(Decide later — MIT, proprietary, or custom. For now: all rights reserved unless stated otherwise.)*  
 
 ---
