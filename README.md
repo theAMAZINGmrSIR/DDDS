@@ -75,26 +75,3 @@ It’s dark comedy, B-movie horror, and corporate satire all smashed into one ga
 *(Decide later — MIT, proprietary, or custom. For now: all rights reserved unless stated otherwise.)*  
 
 ---
-
-## Git Workflow (Quick Reference)
-```bash
-# Create a feature branch from develop
-git switch develop
-git pull
-git switch -c feature/drone-link
-
-# Push it
-git push -u origin feature/drone-link
-
-# Open a PR to develop (on GitHub UI)
-
-# Update develop locally and merge to main for release
-git switch develop
-git pull
-git switch main
-git merge --no-ff develop
-git push
-
-# Tag a build
-git tag -a v0.62 -m "Drone/Employee reconnect + obituary UX"
-git push --tags
