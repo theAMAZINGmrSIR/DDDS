@@ -1,22 +1,32 @@
 # Dooms Day Delivery Service (DDDS)
 
-**Dooms Day Delivery Service** is a satirical B-horror delivery game built in **Unreal Engine 5**.  
-You play as the **Asset Manager**, remotely operating disposable 3D-printed Employees via drone.  
-Your mission: deliver packages through apocalyptic hazards, collect bio-matter, and ignore the corporate propaganda telling you everything is fine.
+**Dooms Day Delivery Service** is a satirical **B-horror courier game** built in **Unreal Engine 5**.  
+You play as the **Asset Manager**, a remote operator controlling disposable 3D-printed Employees via drone.  
+
+Your mission: **drive your delivery truck into danger, print a fresh Employee, and guide them on foot through apocalyptic hazards to drop off packages.**  
+Along the way, you’ll collect Bio-Matter to print more Employees, fend off rival mascots, and review obituaries for each poor soul that doesn’t make it.  
 
 ---
 
-## Features (Current & Planned)
-- Drone ↔ Employee connection loop (stay close or lose control)  
-- 3D-printed Employee lives powered by collected **Bio-Matter**  
-- Package pickup & drop system (death → package retrieval)  
-- Environmental hazards, rival mascots, and apocalyptic chaos  
-- Employee **obituary generator** + **Memorial Wall**  
-- Satirical corporate UI styled like an OS terminal  
+## Elevator Pitch
+*Imagine if Amazon ran deliveries during the apocalypse, powered by disposable workers 3D-printed out of recycled human goo. Now imagine you’re the one managing them. That’s DDDS.*  
+
+It’s dark comedy, B-movie horror, and corporate satire all smashed into one game about packages, mutants, and the futility of human life under capitalism.  
 
 ---
 
-## Development Roadmap (No Dates, Just Chaos)
+## Core Features (Current & Planned)
+-  **Driving phase**: Navigate your truck to delivery zones and park in corporate-approved stations  
+-  **Employee printing**: Spawn disposable workers from the back of the truck using collected Bio-Matter  
+-  **Drone ↔ Employee connection loop**: Stay close or lose control (and maybe your Employee)  
+-  **Package pickup & drop system**: If an Employee dies, the package must be retrieved by the next  
+-  **Hazards & enemies**: Traps, mutants, rival mascots, and general apocalyptic chaos  
+-  **Obituary generator + Memorial Wall**: Every Employee death gets logged, screenshotted, and remembered (sort of)  
+-  **Corporate UI**: Satirical OS terminal guiding you through “safe and efficient” deliveries  
+
+---
+
+## 🗺 Development Roadmap (No Dates, Just Chaos)
 
 **Now**  
 - Training level demo polish  
@@ -66,6 +76,8 @@ Your mission: deliver packages through apocalyptic hazards, collect bio-matter, 
 
 ---
 
+## Git Workflow (Quick Reference)
+```bash
 # Create a feature branch from develop
 git switch develop
 git pull
