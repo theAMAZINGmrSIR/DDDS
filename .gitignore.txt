@@ -1,0 +1,51 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors/IDEs
+.vscode/
+.vs/
+.idea/
+
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+DerivedDataCacheBoot.ddc
+*.VC.db
+*.opensdf
+*.sdf
+*.sln
+*.xcodeproj
+*.xcworkspace
+*-Debug.xcconfig
+*-Development.xcconfig
+
+# Packaging/Build Artifacts
+Build/*/Cooked/
+Build/*/LinuxNoEditor/
+Build/*/WindowsNoEditor/
+Build/*/Android*/ 
+Saved/StagedBuilds/
+*.ipa
+*.apk
+*.obb
+*.app
+*.exe
+*.pdb
+
+# Logs & Misc
+*.log
+*.tlog
+*.tmp
+*.cache
+*.local
+*.db
+*.suo
+
+# Backups
+*_Backup/*
+*_BACKUP_*/
+*_LOCAL_*/
+*_REMOTE_*/
