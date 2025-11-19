@@ -1,6 +1,6 @@
-# Dooms Day Delivery Service (DDDS)
+# Doomsday Delivery Service (DDS)
 
-**Dooms Day Delivery Service** is a satirical **B-horror courier game** built in **Unreal Engine 5**.  
+**Doomsday Delivery Service** is a satirical **B-horror courier game** built in **Unreal Engine 5**.  
 You play as the **Asset Manager**, a remote operator controlling disposable 3D-printed Employees via drone.  
 
 Your mission: **drive your delivery truck into danger, print a fresh Employee, and guide them on foot through apocalyptic hazards to drop off packages.**  
