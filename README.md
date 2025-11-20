@@ -1,77 +1,111 @@
-# Doomsday Delivery Service (DDS)
+Doomsday Delivery Service (DDS)
 
-**Doomsday Delivery Service** is a satirical **B-horror courier game** built in **Unreal Engine 5**.  
-You play as the **Asset Manager**, a remote operator controlling disposable 3D-printed Employees via drone.  
+A satirical B-horror courier game built in Unreal Engine 5.
 
-Your mission: **drive your delivery truck into danger, print a fresh Employee, and guide them on foot through apocalyptic hazards to drop off packages.**  
-Along the way, you’ll collect Bio-Matter to print more Employees, fend off rival mascots, and review obituaries for each poor soul that doesn’t make it.  
+Doomsday Delivery Service is a darkly comedic apocalyptic delivery simulator where you play as the Asset Manager, remotely piloting disposable 3D-printed Employees through end-of-the-world hazards via a corporate surveillance drone.
 
----
+Your job is simple:
+Drive the truck. Print the worker. Survive the hazards. Deliver the package. Repeat as required by corporate policy.
 
-## Elevator Pitch
-*Imagine if Amazon ran deliveries during the apocalypse, powered by disposable workers 3D-printed out of recycled human goo. Now imagine you’re the one managing them. That’s DDDS.*  
+Elevator Pitch
 
-It’s dark comedy, B-movie horror, and corporate satire all smashed into one game about packages, mutants, and the futility of human life under capitalism.  
+Imagine an Amazon-style delivery service operating during a series of apocalyptic events, powered by disposable Employees printed from recycled human Bio-Matter. Now imagine you are their supervisor.
 
----
+DDS blends B-movie horror, corporate satire, action gameplay, and dark comedy into a bleakly humorous look at labor, efficiency, and expendable workers.
 
-## Core Features (Current & Planned)
--  **Driving phase**: Navigate your truck to delivery zones and park in corporate-approved stations  
--  **Employee printing**: Spawn disposable workers from the back of the truck using collected Bio-Matter  
--  **Drone ↔ Employee connection loop**: Stay close or lose control (and maybe your Employee)  
--  **Package pickup & drop system**: If an Employee dies, the package must be retrieved by the next  
--  **Hazards & enemies**: Traps, mutants, rival mascots, and general apocalyptic chaos  
--  **Obituary generator + Memorial Wall**: Every Employee death gets logged, screenshotted, and remembered (sort of)  
--  **Corporate UI**: Satirical OS terminal guiding you through “safe and efficient” deliveries  
+Core Features
+Driving Phase
 
----
+Navigate a company-issued delivery truck through hazardous environments and park in designated delivery zones.
 
-## 🗺 Development Roadmap (No Dates, Just Chaos)
+Employee Printing
 
-**Now**  
-- Training level demo polish  
-- Obituary system UX pass  
-- Drone reconnection tuning  
+Use collected Bio-Matter to print new disposable Employees, each one ready to serve until their inevitable demise.
 
-**Next**  
-- “Carnival of Death” set dressing  
-- Mascot enemy behaviors  
-- Demo pipeline prep for itch.io  
+Package Handling
 
-**Later**  
-- Procedural missions  
-- Voice pass (B-list icons)  
-- DLC packs inspired by B-horror cult classics  
+If an Employee dies, the package drops. The next Employee must recover it to complete the delivery.
 
----
+Hazards and Enemies
 
-## Downloads & Builds
-- Latest builds will be posted on the **[Releases](../../releases)** tab.  
-- Public demo will also be hosted on **itch.io** once stable.  
+Navigate traps, environmental dangers, rival delivery threats, and general apocalyptic chaos.
 
----
+Obituary System
 
-## Tools & Tech
-- Engine: **Unreal Engine 5**  
-- Art: Blender, Photoshop  
-- Code/Control: GitHub, Jira, Plastic SCM  
+Every Employee death is logged with a screenshot and cause of death on the Memorial Wall.
 
----
+Corporate OS-Style UI
 
-## Credits
-- **Design / Art / Direction**: Will (U.S. Army vet, MS Game Design, BS Game Art)  
-- **Studio**: Arcade Oubliette Games *(working title)*  
-- **Inspirations**: Punk rock, VHS horror, corporate absurdity, and too much coffee  
+All menus and systems operate through a dystopian corporate desktop interface.
 
----
+Development Roadmap
 
-## Privacy
-- This repo doesn’t collect data.  
-- If you subscribe for updates (via the devlog site), your email is only used for sending game updates — no spam, no sharing.  
+(High-level goals only. No dates, no spoilers.)
 
----
+Now
 
-## License
-*(Decide later — MIT, proprietary, or custom. For now: all rights reserved unless stated otherwise.)*  
+Training level demo development and polish
 
----
+Obituary system user experience pass
+
+Drone link and reconnection tuning
+
+Next
+
+Core gameplay systems refinement
+
+Enemy and hazard interactions
+
+Demo pipeline prep for public testing
+
+Later
+
+Expanded mission structure
+
+Additional enemy and hazard variety
+
+Polishing, optimization, and narrative integration
+
+Downloads and Builds
+
+Latest builds will be posted on the Releases tab.
+
+A public demo will be made available on itch.io when stable.
+
+Tools and Technology
+
+Engine: Unreal Engine 5
+
+Art and Assets: Blender, Photoshop, Meshy AI (edited and finalized manually)
+
+Production: GitHub, Jira, Confluence, Plastic SCM
+
+Credits
+
+Design / Art / Direction: Will Rex
+
+Studio: Mandatory Fun Games (formerly Arcade Oubliette Games)
+
+Additional support provided by a small remote development team.
+
+Creative inspirations include B-horror cinema, punk rock, VHS culture, and corporate absurdity.
+
+Contributing
+
+DDS is developed by a small indie team.
+External code contributions are not open at this time, but feedback, networking, and playtesting support are welcome.
+
+Devlog
+
+Development updates are documented here:
+https://dddsdevlog.blogspot.com/
+
+Privacy
+
+This repository does not collect personal data.
+Devlog email subscriptions are used exclusively for update notifications.
+
+License
+
+All content © Mandatory Fun Games.
+A formal license will be added at a later stage.
