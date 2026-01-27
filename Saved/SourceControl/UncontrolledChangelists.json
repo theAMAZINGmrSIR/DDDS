@@ -7,7 +7,9 @@
 			"files": [
 				"C:/Users/willr/Documents/GitHub/DDDS/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/willr/Documents/GitHub/DDDS/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/F/4G/TYFCMQ9MC435YW6FZBF5FS.uasset",
-				"C:/Users/willr/Documents/GitHub/DDDS/Content/ThirdPerson/Blueprints/Camera/T_FilmGrain.uasset"
+				"C:/Users/willr/Documents/GitHub/DDDS/Content/ThirdPerson/Blueprints/Camera/T_FilmGrain.uasset",
+				"C:/Users/willr/Documents/GitHub/DDDS/Content/ThirdPerson/Blueprints/BP_Pickupable_Object.uasset",
+				"C:/Users/willr/Documents/GitHub/DDDS/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/CO/DG34SQ9619TRJQMOV9N6I7.uasset"
 			]
 		}
 	]
