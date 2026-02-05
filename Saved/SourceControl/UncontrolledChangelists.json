@@ -15,7 +15,6 @@
 				"C:/Users/willr/Documents/GitHub/DDDS/Content/UI/BP_OptionsMenu.uasset",
 				"C:/Users/willr/Documents/GitHub/DDDS/Content/UI/Menus/Lvl_MainMenu.umap",
 				"C:/Users/willr/Documents/GitHub/DDDS/Content/UI/Menus/Lvl_OptionsMenu.umap",
-				"C:/Users/willr/Documents/GitHub/DDDS/Content/UI/Lvl_OptionsMenu.umap",
 				"C:/Users/willr/Documents/GitHub/DDDS/Content/UI/Menus/MenuGameMode.uasset",
 				"C:/Users/willr/Documents/GitHub/DDDS/Content/UI/MenuGameMode.uasset",
 				"C:/Users/willr/Documents/GitHub/DDDS/Content/UI/Menus/WBP_MainMenu.uasset",
@@ -27,10 +26,12 @@
 				"C:/Users/willr/Documents/GitHub/DDDS/Content/ThirdPerson/Blueprints/Camera/T_FilmGrain.uasset",
 				"C:/Users/willr/Documents/GitHub/DDDS/Content/ThirdPerson/Blueprints/BP_Pickupable_Object.uasset",
 				"C:/Users/willr/Documents/GitHub/DDDS/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/CO/DG34SQ9619TRJQMOV9N6I7.uasset",
-				"C:/Users/willr/Documents/GitHub/DDDS/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/WF/ORM542JE7UI5U0L1NSRO9B.uasset",
 				"C:/Users/willr/Documents/GitHub/DDDS/Content/LevelPrototyping/Levels/Lvl_01.umap",
 				"C:/Users/willr/Documents/GitHub/DDDS/Content/ThirdPerson/Blueprints/BP_DropOffZone.uasset",
-				"C:/Users/willr/Documents/GitHub/DDDS/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/QE/NPKM7ATADRAWRVX1YX9Y6A.uasset"
+				"C:/Users/willr/Documents/GitHub/DDDS/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/QE/NPKM7ATADRAWRVX1YX9Y6A.uasset",
+				"C:/Users/willr/Documents/GitHub/DDDS/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/RI/R8L7GQXCHQGMMKBPTBJTNA.uasset",
+				"C:/Users/willr/Documents/GitHub/DDDS/Content/UI/Lvl_OptionsMenu.umap",
+				"C:/Users/willr/Documents/GitHub/DDDS/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/WF/ORM542JE7UI5U0L1NSRO9B.uasset"
 			]
 		}
 	]
