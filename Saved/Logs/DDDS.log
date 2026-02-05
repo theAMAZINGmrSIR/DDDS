@@ -3783,3 +3783,6 @@ FPackageName: Skipped package /Game/ThirdPerson/Blueprints/BP_Pickupable_Object 
 [2026.02.05-18.06.12:776][533]LogNFORDenoise: NFORDenoise function shutting down
 [2026.02.05-18.06.12:785][533]LogXGEController: Cleaning working directory: C:/Users/willr/AppData/Local/Temp/UnrealXGEWorkingDir/
 [2026.02.05-18.06.12:806][533]LogPakFile: Destroying PakPlatformFile
+[2026.02.05-18.06.13:709][533]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.02.05-18.06.13:965][533]LogExit: Exiting.
+[2026.02.05-18.06.14:044][533]Log file closed, 02/05/26 13:06:14
