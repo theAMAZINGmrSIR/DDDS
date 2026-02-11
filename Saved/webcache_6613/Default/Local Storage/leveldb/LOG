@@ -1,6 +1,0 @@
-2026/02/10-12:17:14.337 a0e0 Reusing MANIFEST C:\Users\willr\Documents\GitHub\DDDS\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/02/10-12:17:14.341 a0e0 Recovering log #10
-2026/02/10-12:17:14.344 a0e0 Reusing old log C:\Users\willr\Documents\GitHub\DDDS\Saved\webcache_6613\Default\Local Storage\leveldb/000010.log 
-2026/02/10-12:18:37.565 9ca4 Level-0 table #13: started
-2026/02/10-12:18:37.584 9ca4 Level-0 table #13: 63180 bytes OK
-2026/02/10-12:18:37.592 9ca4 Delete type=0 #10
